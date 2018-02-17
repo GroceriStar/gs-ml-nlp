@@ -1,7 +1,7 @@
 Ingredients,category
 Asparagus,Fresh Vegetables
 Broccoli,Fresh Vegetables
-Carrots	,Fresh Vegetables
+Carrots,Fresh Vegetables
 Cauliflower,Fresh Vegetables
 Celery,Fresh Vegetables
 Corn,Fresh Vegetables
@@ -37,11 +37,11 @@ Milk,Dairy
 Sour cream,Dairy
 Whipped cream,Dairy
 Yogurt,Dairy
-Bagels / Croissants	,Baked Goods
+Bagels / Croissants,Baked Goods
 Buns / Rolls,Baked Goods
 Cake / Cookies,Baked Goods
 Donuts / Pastries,Baked Goods
-Fresh bread	,Baked Goods
+Fresh bread,Baked Goods
 Pie! Pie! Pie!,Baked Goods
 Pita bread,Baked Goods
 Sliced bread,Baked Goods
@@ -55,8 +55,8 @@ Mozzarella,Cheese
 Parmesan,Cheese
 Provolone,Cheese
 Ricotta,Cheese
-Sandwich slices	,Cheese
-Swiss	,Cheese
+Sandwich slices,Cheese
+Swiss,Cheese
 Baking powder / Soda,Baking
 Bread crumbs,Baking
 Cake / Brownie mix,Baking
@@ -74,9 +74,9 @@ Berries,Fresh Fruits
 Cherries,Fresh Fruits
 Grapefruit,Fresh Fruits
 Grapes,Fresh Fruits
-Kiwis	,Fresh Fruits
+Kiwis,Fresh Fruits
 Lemons / Limes,Fresh Fruits
-Melon	,Fresh Fruits
+Melon,Fresh Fruits
 Nectarines,Fresh Fruits
 Oranges,Fresh Fruits
 Peaches,Fresh Fruits
@@ -91,13 +91,13 @@ Hot dogs,Meat
 Lunchmeat,Meat
 Turkey,Meat
 Candy / Gum,Snacks
-Cookies	,Snacks
-Crackers	,Snacks
+Cookies,Snacks
+Crackers,Snacks
 Dried fruit,Snacks
 Granola bars / Mix,Snacks
-Nuts / Seeds	,Snacks
-Oatmeal	,Snacks
-Popcorn	,Snacks
+Nuts / Seeds,Snacks
+Oatmeal,Snacks
+Popcorn,Snacks
 Potato / Corn chips,Snacks
 Pretzels,Snacks
 Catfish,Seafood
@@ -109,3 +109,503 @@ Salmon,Seafood
 Shrimp,Seafood
 Tilapia,Seafood
 Tuna,Seafood
+,
+Acidophilus Milk,Dairy
+Ammonium Caseinate,Dairy
+Buttermilk,Dairy
+Buttermilk Powder,Dairy
+Calcium Caseinate,Dairy
+Casein,Dairy
+Caseinate (in general),Dairy
+Cheese (All animal-based),Dairy
+Condensed Milk,Dairy
+Cottage Cheese,Dairy
+Cream,Dairy
+Curds,Dairy
+Custard,Dairy
+Delactosed Whey,Dairy
+Demineralized Whey,Dairy
+Dry Milk Powder,Dairy
+Dry Milk Solids,Dairy
+Evaporated Milk,Dairy
+Ghee,Dairy
+Goat Cheese,Dairy
+Goat Milk,Dairy
+Half & Half,Dairy
+Hydrolyzed Casein,Dairy
+Hydrolyzed Milk Protein,Dairy
+Iron Caseinate,Dairy
+Lactalbumin,Dairy
+Lactoferrin,Dairy
+Lactoglobulin,Dairy
+Lactose,Dairy
+Lactulose,Dairy
+Low-Fat Milk,Dairy
+Magnesium Caseinate,Dairy
+Malted Milk,Dairy
+Milk,Dairy
+Milk Derivative,Dairy
+Milk Fat,Dairy
+Milk Powder,Dairy
+Milk Protein,Dairy
+Milk Solids,Dairy
+Natural Butter Flavor,Dairy
+Nonfat Milk,Dairy
+Nougat,Dairy
+Paneer,Dairy
+Potassium Caseinate,Dairy
+Pudding,Dairy
+Recaldent,Dairy
+Rennet Casein,Dairy
+Sheep Milk,Dairy
+Sheep Milk Cheese,Dairy
+Skim Milk,Dairy
+Sodium Caseinate,Dairy
+Sour Cream,Dairy
+Sour Milk Solids,Dairy
+Sweetened Condensed Milk,Dairy
+Sweet Whey,Dairy
+Whey,Dairy
+Whey Powder,Dairy
+Whey Protein Concentrate,Dairy
+Whey Protein Hydrolysate,Dairy
+Whipped Cream,Dairy
+Whipped Topping,Dairy
+Whole Milk,Dairy
+Yogurt,Dairy
+Zinc Caseinate,Dairy
+,
+Beer,Beverages
+Club soda / Tonic,Beverages
+Champagne,Beverages
+Gin,Beverages
+Juice,Beverages
+Mixers,Beverages
+Red wine / White wine,Beverages
+Rum,Beverages
+Saké,Beverages
+Soda pop,Beverages
+Sports drink,Beverages
+Whiskey,Beverages
+Vodka,Beverages
+,
+,
+,
+Bagels / Croissants,Baked goods
+Buns / Rolls,Baked goods
+Cake / Cookies,Baked goods
+Donuts / Pastries,Baked goods
+Fresh bread,Baked goods
+Pie! Pie! Pie!,Baked goods
+Pita bread,Baked goods
+Sliced bread,Baked goods
+Baking powder / Soda,Baking
+Bread crumbs,Baking
+Cake / Brownie mix,Baking
+Cake icing / Decorations,Baking
+Chocolate chips / Cocoa,Baking
+Flour,Baking
+Shortening,Baking
+Sugar,Baking
+Sugar substitute,Baking
+Yeast,Baking
+Candy / Gum,Snacks
+Cookies,Snacks
+Crackers,Snacks
+Dried fruit,Snacks
+Granola bars / Mix,Snacks
+Nuts / Seeds,Snacks
+Oatmeal,Snacks
+Popcorn,Snacks
+Potato / Corn chips,Snacks
+Pretzels,Snacks
+Artichoke,Fresh vegetables
+Arugula,Fresh vegetables
+Asparagus,Fresh vegetables
+Avocado,Fresh vegetables
+Bamboo shoots,Fresh vegetables
+Beets,Fresh vegetables
+Bell peppers,Fresh vegetables
+Bok choy,Fresh vegetables
+Broccoli,Fresh vegetables
+Brussels sprouts,Fresh vegetables
+Cabbage,Fresh vegetables
+Carrots,Fresh vegetables
+Cassava,Fresh vegetables
+Cauliflower,Fresh vegetables
+Celery,Fresh vegetables
+Chard,Fresh vegetables
+Collard greens,Fresh vegetables
+Corn,Fresh vegetables
+Crisphead lettuce,Fresh vegetables
+Cucumber,Fresh vegetables
+Daikon,Fresh vegetables
+Eggplant,Fresh vegetables
+Endive,Fresh vegetables
+Garlic,Fresh vegetables
+Ginger,Fresh vegetables
+Hot peppers,Fresh vegetables
+Jicama,Fresh vegetables
+Kale,Fresh vegetables
+Kohlrabi,Fresh vegetables
+Leaf lettuce,Fresh vegetables
+Mushrooms,Fresh vegetables
+Nopales,Fresh vegetables
+Okra,Fresh vegetables
+Onions,Fresh vegetables
+Peas,Fresh vegetables
+Potatoes,Fresh vegetables
+Radishes,Fresh vegetables
+Radicchio,Fresh vegetables
+Romaine lettuce,Fresh vegetables
+Shallots / Leeks,Fresh vegetables
+Spinach,Fresh vegetables
+Sprouts,Fresh vegetables
+Squash,Fresh vegetables
+Sweet potatoes,Fresh vegetables
+Taro,Fresh vegetables
+Tomatillo,Fresh vegetables
+Tomatoes,Fresh vegetables
+Turnips / Parsnips,Fresh vegetables
+Water chestnuts,Fresh vegetables
+Watercress,Fresh vegetables
+Almonds,Nuts
+Brazil nuts,Nuts
+Cashews,Nuts
+Chestnuts,Nuts
+Macadamia,Nuts
+Peanuts,Nuts
+Pecans,Nuts
+Pine nuts,Nuts
+Pistachios,Nuts
+Walnuts,Nuts
+Flax,Seeds
+Lotus,Seeds
+Pumpkin,Seeds
+Sunflower,Seeds
+Apples,Fresh fruits
+Apricots,Fresh fruits
+Avocados,Fresh fruits
+Bananas,Fresh fruits
+Blackberries,Fresh fruits
+Blueberries,Fresh fruits
+Cantelope,Fresh fruits
+Cherries,Fresh fruits
+Cranberries,Fresh fruits
+Dates / Figs,Fresh fruits
+Grapes,Fresh fruits
+Grapefruit,Fresh fruits
+Guava,Fresh fruits
+Honeydew / Muskmelon,Fresh fruits
+Kiwis,Fresh fruits
+Kumquats,Fresh fruits
+Lemons,Fresh fruits
+Limes,Fresh fruits
+Lychee,Fresh fruits
+Mango,Fresh fruits
+Mangosteen,Fresh fruits
+Nectarines,Fresh fruits
+Oranges,Fresh fruits
+Papaya,Fresh fruits
+Peaches,Fresh fruits
+Pears,Fresh fruits
+Pineapple,Fresh fruits
+Plantains,Fresh fruits
+Plums,Fresh fruits
+Pomegranate,Fresh fruits
+Quince,Fresh fruits
+Raspberries,Fresh fruits
+Rhubarb,Fresh fruits
+Strawberries,Fresh fruits
+Watermelon,Fresh fruits
+Black beans,Beans
+Black-eyed peas,Beans
+Chickpeas,Beans
+Edamame,Beans
+Fava beans,Beans
+Kidney beans,Beans
+Lentils,Beans
+Lima beans,Beans
+Mung beans,Beans
+Navy beans,Beans
+Pinto beans,Beans
+Red beans,Beans
+Split peas,Beans
+White beans,Beans
+Amaranth,Grains
+Barley,Grains
+Brown rice,Grains
+Buckwheat,Grains
+Bulgar,Grains
+Cornmeal,Grains
+Couscous,Grains
+Millet,Grains
+Oatmeal,Grains
+Quinoa,Grains
+Sorghum,Grains
+Wheat gluten (Seitan),Grains
+White rice,Grains
+Wild rice,Grains
+Allspice,Herbs and spices
+Anise,Herbs and spices
+Bay leaf,Herbs and spices
+Basil,Herbs and spices
+Black pepper,Herbs and spices
+Cayenne pepper,Herbs and spices
+Celery seed,Herbs and spices
+Chives,Herbs and spices
+Chili powder,Herbs and spices
+Cilantro,Herbs and spices
+Cinnamon,Herbs and spices
+Clove,Herbs and spices
+Coriander,Herbs and spices
+Cumin,Herbs and spices
+Dill,Herbs and spices
+Fennel,Herbs and spices
+Garlic,Herbs and spices
+Lavender,Herbs and spices
+Lemongrass,Herbs and spices
+Marjoram,Herbs and spices
+Nutmeg,Herbs and spices
+Oregano,Herbs and spices
+Paprika,Herbs and spices
+Parsley,Herbs and spices
+Peppermint,Herbs and spices
+Poppy seed,Herbs and spices
+Red pepper,Herbs and spices
+Rosemary,Herbs and spices
+Saffron,Herbs and spices
+Sage,Herbs and spices
+Spearmint,Herbs and spices
+Tarragon,Herbs and spices
+Thyme,Herbs and spices
+Tumeric,Herbs and spices
+Vanilla,Herbs and spices
+Applesauce,Canned foods
+Baked beans,Canned foods
+Chili,Canned foods
+Fruits,Canned foods
+Olives,Canned foods
+Soups,Canned foods
+Tomatoes,Canned foods
+Vegetable broth,Canned foods
+Veggies,Canned foods
+Agave nectar,Condiments & Sauces
+BBQ sauce,Condiments & Sauces
+Brown rice syrup,Condiments & Sauces
+Gravy,Condiments & Sauces
+Harissa,Condiments & Sauces
+Honey,Condiments & Sauces
+Hot sauce,Condiments & Sauces
+Jam / Jelly / Preserves,Condiments & Sauces
+Ketchup / Mustard,Condiments & Sauces
+Maple syrup,Condiments & Sauces
+Mayo product,Condiments & Sauces
+Peanut butter,Condiments & Sauces
+Ponzu,Condiments & Sauces
+Salad dressing,Condiments & Sauces
+Salsa,Condiments & Sauces
+Soy sauce,Condiments & Sauces
+Sriracha,Condiments & Sauces
+Stir fry sauce,Condiments & Sauces
+Tomato sauce,Condiments & Sauces
+Veg. Worcestershire,Condiments & Sauces
+Cereal,Various groceries
+Chai,Various groceries
+Coffee / Filters,Various groceries
+Free-range eggs,Various groceries
+Egg substitute,Various groceries
+Hummus,Various groceries
+Lemon / Lime juice,Various groceries
+Nutritional yeast,Various groceries
+Pancake / Waffle mix,Various groceries
+Pasta,Various groceries
+Pickles,Various groceries
+Tahini,Various groceries
+Tea,Various groceries
+Tempeh,Various groceries
+Tofu,Various groceries
+TVP,Various groceries
+Veggie dogs,Various groceries
+Apple cider vinegar,Vinegars
+Balsamic vinegar,Vinegars
+Red wine vinegar,Vinegars
+Rice vinegar,Vinegars
+Sesame oil,Oils
+Olive oil,Oils
+Vegetable oil,Oils
+White vinegar,Oils
+Anhydrous Milk Fat,Dairy
+Aseptic Milk &amp; Milk Products (Including Flavored),Dairy
+Buttermilk or Buttermilk Product,Dairy
+Cholesterol Modified Fluid Milk Products,Dairy
+Concentrated Pasteurized Milk Products,Dairy
+Concentrated Raw Milk Products for Pasteurization,Dairy
+Condensed Buttermilk or Buttermilk Product,Dairy
+Condensed Evaporated,Dairy
+Condensed Milk &amp; Milk Products,Dairy
+Condensed Skim Milk,Dairy
+Cream,Dairy
+Cultured or Acidified Milk &amp; Milk Products,Dairy
+Eggnog,Dairy
+Evaporated Filled Milk,Dairy
+Evaporated Milk,Dairy
+Frozen Cream,Dairy
+Goat Milk &amp; Milk Products,Dairy
+Lactose Reduced Milk &amp; Milk Products,Dairy
+Low-Sodium Milk &amp; Milk Products,Dairy
+Milk,Dairy
+Milk &amp; Milk Products with Added Safe &amp; Suitable Microbial Organisms (Such as Lactobacillus acidophilus),Dairy
+"Pasteurized Half &amp; Half, Coffee Cream, Creams",Dairy
+"Pasteurized Milk, Reduced Fat, Lowfat &amp; Skim",Dairy
+RO Concentrated Buttermilk or Buttermilk Product,Dairy
+RO Concentrated Milk,Dairy
+RO Concentrated Skim Milk,Dairy
+"Raw Milk for Pasteurization (May include Lowfat, Skim or Cream)",Dairy
+Reduced Lactose Milk &amp; Milk Products,Dairy
+Sheep Milk &amp; Milk Products,Dairy
+Skim Milk,Dairy
+Sterilized Milk,Dairy
+UHT Milk,Dairy
+Ultra-Pasteurized Milk &amp; Milk Products,Dairy
+Whey Cream,Dairy
+Butter,Dairy
+Butter (bulk),Dairy
+Butter (consumer size package),Dairy
+Concentrated Milkfat,Dairy
+Plastic Cream,Dairy
+Whipped Butter,Dairy
+Dry Buttermilk or Buttermilk Product,Dairy
+Dry Cream,Dairy
+Dry Milk (nonfat &amp; whole),Dairy
+Dry Skim-Buttermilk Blend,Dairy
+Instant Dry Milk (nonfat &amp; whole),Dairy
+Frozen Products,Dairy
+Frozen Yogurt &amp; Novelties,Dairy
+Ice Cream (except novelties),Dairy
+Ice Cream Mix,Dairy
+Ice Cream Novelties,Dairy
+Ice Cream Treat,Dairy
+Dry Yogurt,Dairy
+Sour Cream,Dairy
+Yogurt,Dairy
+Affinage,Dairy
+Cheddar,Dairy
+Colby,Dairy
+Granular Curd,Dairy
+Washed Curd,Dairy
+Blue,Dairy
+Bondost,Dairy
+Breading Cheese,Dairy
+Brick Cheese,Dairy
+Brie,Dairy
+Brine System,Dairy
+Camembert,Dairy
+Cheese,Dairy
+Cheese Curd,Dairy
+Cheese Spreads,Dairy
+Cheese With Added Ingredients,Dairy
+Colby,Dairy
+"Cold Pack Cheese, Cheese Food, or Cheese Spread",Dairy
+Cottage Cheese,Dairy
+"Cottage Cheese (Including Lowfat, Nonfat or Dry Curd)",Dairy
+Cream Cheese &amp; Neufchatel,Dairy
+Curds,Dairy
+Edam Cheese,Dairy
+Enzyme Modified Dairy Products,Dairy
+Farmers,Dairy
+Feta,Dairy
+Goat Cheese,Dairy
+Gouda,Dairy
+Hard Grating Cheese,Dairy
+Havarti,Dairy
+Hispanic Cheese,Dairy
+asiago,Dairy
+fontina,Dairy
+gorgonzola,Dairy
+mascarpone,Dairy
+mozzarella,Dairy
+parmesan,Dairy
+provolone,Dairy
+ricotone,Dairy
+ricotta,Dairy
+romano,Dairy
+Limburger,Dairy
+Monterey Jack,Dairy
+Muenster,Dairy
+"Natural Cheese (consumer size package, any variety)",Dairy
+"Pasteurized Process Cheese, Cheese Food, or Cheese Spread",Dairy
+Processed Cheese,Dairy
+Queso Blanco-Latin Style,Dairy
+"Semisoft Cheeses, Semisoft Part-Skim Cheeses",Dairy
+"Shredded, Grated, Crumbled, or Diced Cheese (bulk package, any variety)",Dairy
+"Shredded, Grated, Crumbled, or Diced Cheese (consumer size package, any variety)",Dairy
+Smoked Cheese,Dairy
+Specialty Cheeses,Dairy
+String/Strip Cheese Packaging,Dairy
+"Swiss-style (Emmentaler, Swiss, Lacy Swiss)",Dairy
+Washed Curd,Dairy
+Acidophilus Milk,Dairy
+Ammonium Caseinate,Dairy
+Buttermilk,Dairy
+Buttermilk Powder,Dairy
+Calcium Caseinate,Dairy
+Casein,Dairy
+Caseinate (in general),Dairy
+Cheese (All animal-based),Dairy
+Condensed Milk,Dairy
+Cottage Cheese,Dairy
+Cream,Dairy
+Curds,Dairy
+Custard,Dairy
+Delactosed Whey,Dairy
+Demineralized Whey,Dairy
+Dry Milk Powder,Dairy
+Dry Milk Solids,Dairy
+Evaporated Milk,Dairy
+Ghee (see page 109 in Go Dairy Free),Dairy
+Goat Cheese,Dairy
+Goat Milk,Dairy
+Half & Half,Dairy
+Hydrolyzed Casein,Dairy
+Hydrolyzed Milk Protein,Dairy
+Iron Caseinate,Dairy
+Lactalbumin,Dairy
+Lactoferrin,Dairy
+Lactoglobulin,Dairy
+Lactose,Dairy
+Lactulose,Dairy
+Low-Fat Milk,Dairy
+Magnesium Caseinate,Dairy
+Malted Milk,Dairy
+Milk,Dairy
+Milk Derivative,Dairy
+Milk Fat,Dairy
+Milk Powder,Dairy
+Milk Protein,Dairy
+Milk Solids,Dairy
+Natural Butter Flavor,Dairy
+Nonfat Milk,Dairy
+Nougat,Dairy
+Paneer,Dairy
+Potassium Caseinate,Dairy
+Pudding,Dairy
+Recaldent,Dairy
+Rennet Casein,Dairy
+Sheep Milk,Dairy
+Sheep Milk Cheese,Dairy
+Skim Milk,Dairy
+Sodium Caseinate,Dairy
+Sour Cream,Dairy
+Sour Milk Solids,Dairy
+Sweetened Condensed Milk,Dairy
+Sweet Whey,Dairy
+Whey,Dairy
+Whey Powder,Dairy
+Whey Protein Concentrate,Dairy
+Whey Protein Hydrolysate,Dairy
+Whipped Cream,Dairy
+Whipped Topping,Dairy
+Whole Milk,Dairy
+Yogurt,Dairy
+Zinc Caseinate,Dairy
